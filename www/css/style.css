@@ -1,0 +1,28 @@
+.loginAppName {
+  color: #424242;
+  font-size: 2.3em;
+  font-family: Verdana;
+}
+.loginAppTagLing {
+  color: #424242;
+  font-size: 0.9em;
+  font-family: Verdana;
+  font-style: italic;
+}
+.loginBtn {
+  background-color: #00ACC1;
+  color: white;
+}
+.loginLink {
+  color: #00ACC1;
+}
+#userInputSection label {
+  border-color: #424242;
+  border-width: 0 0 2px 0;
+}
+#userInputSection label input {
+  color: #212121;
+}
+#placerholderDIV h3 {
+  text-align: center;
+}

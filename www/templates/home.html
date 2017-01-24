@@ -1,0 +1,20 @@
+<ion-header-bar class="bar-header bar-positive">    
+    <h1 class="title">Starter App</h1>
+    <button class="button button-clear icon fa fa-sign-out"  ng-click="" ></button>
+</ion-header-bar>
+
+<ion-view>
+    <ion-content>
+
+        <div id="placerholderDIV">
+            <h3>Data from factory</h3>
+            <ion-list>
+                <ion-item ng-repeat="items in homeCon.featureData">
+                    <i class="fa fa-check" aria-hidden="true"> {{items}}</i>
+                </ion-item>
+            </ion-list>     
+        </div>
+
+
+    </ion-content>
+</ion-view>

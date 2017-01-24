@@ -1,0 +1,17 @@
+[0124/102604:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/102811:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0124/102811:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0124/104012:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/110435:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/110608:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/111632:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/111718:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/111904:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/111955:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/112151:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/112234:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/113708:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/114440:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/121315:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/140520:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0124/140942:ERROR:file_io.cc(30)] read: expected 4, observed 0

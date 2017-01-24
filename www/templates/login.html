@@ -1,0 +1,45 @@
+<ion-view >
+  <ion-content>
+    
+    <div style="padding: 20px; ">
+        <div style="margin: 50px 0 50px 0; text-align: center;">
+            <i class="fa fa-bolt fa-4x" aria-hidden="true"></i>
+            <br><br>
+            <p class="loginAppName">Starter App</p>
+            <p class="loginAppTagLing">Your First App</p>            
+        </div>
+
+
+        
+        <div id="userInputSection" style="margin: 80px 20px 0 20px; text-align: center;">
+
+            <label class="item item-input" >
+                <i class="fa fa-user placeholder-icon"></i>
+                <input type="email" placeholder="email" ng-model="user.email">                
+            </label>
+            <br>
+
+            <label class="item item-input"  >
+                <i class="fa fa-lock placeholder-icon"></i>
+                <input type="password" placeholder="password" ng-model="user.password">                
+            </label>
+            <br><br>
+
+            <button class="button button-full loginBtn" ng-click="loginCon.goHome()">Login</button>                                  
+            <br>
+
+            <span class="assertive">{{errMsg}}</span>
+
+        </div>       
+     
+     <div style="margin: 20px 20px;">
+        <p class="loginLink" ng-click="">Signup for an Account</p>        
+        <p class="loginLink" ng-click="">Forgot Password</p>        
+     </div>
+     
+
+        
+    </div>
+    
+  </ion-content>
+</ion-view>
